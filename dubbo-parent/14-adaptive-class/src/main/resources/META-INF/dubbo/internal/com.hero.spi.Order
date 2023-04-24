@@ -1,3 +1,0 @@
-alipay=com.hero.spi.AlipayOrder
-wechat=com.hero.spi.WechatOrder
-adaptive=com.hero.spi.AdaptiveOrder

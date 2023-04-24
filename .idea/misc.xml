@@ -80,7 +80,40 @@
         <option value="$PROJECT_DIR$/spring-cloud-alibaba-parent/pom.xml" />
         <option value="$PROJECT_DIR$/elasticseach-springdata-example/pom.xml" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-example/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/HeroRPC/pom.xml" />
+        <option value="$PROJECT_DIR$/day03-jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/day04-jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/day06-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/day07-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/day08-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/day10-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/day11-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/day12-disruptor/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticseach-springdata-example/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-example/pom.xml" />
+        <option value="$PROJECT_DIR$/hero-mall-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/herobatis-frame-example/pom.xml" />
+        <option value="$PROJECT_DIR$/herobatis-frame/pom.xml" />
+        <option value="$PROJECT_DIR$/herocat-app/pom.xml" />
+        <option value="$PROJECT_DIR$/herocat/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-java/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-springboot-java/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-hero-pager-example/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-hero-pager-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-example/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-example/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-example/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-example/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-example/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
