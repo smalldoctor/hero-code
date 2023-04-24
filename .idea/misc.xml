@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/herocat/pom.xml" />
+        <option value="$PROJECT_DIR$/HeroRPC/pom.xml" />
+        <option value="$PROJECT_DIR$/day03-jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/day04-jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-java/pom.xml" />
+        <option value="$PROJECT_DIR$/day10-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/day11-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/herocat-app/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/04-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/15-wrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/00-rpc_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/01-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/12-java-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/16-activate/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/01-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/13-dubbo-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/03-consumer-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/03-provider-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/01-provider-main/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/11-dubbo-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/05-consumer-group/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/05-provider-group/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/07-consumer-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/10-consumer-async/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/10-provider-async/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/14-adaptive-class/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/01-provider-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/09-provider-oneway/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/10-consumer-async2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/10-provider-async2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/10-provider-async3/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/14-adaptive-method/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/04-consumer-version/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/04-provider-version/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/06-consumer-timeout/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/06-provider-timeout/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/14-adaptive-method2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/06-consumer-mocknull/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/02-consumer-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/02-provider-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/06-consumer-mockclass/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/08-consumer-registers/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/08-provider-registers/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/11-consumer-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/11-provider-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/02-provider-zookeeper01/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/02-provider-zookeeper02/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-parent/02-provider-zookeeper03/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-example/pom.xml" />
+        <option value="$PROJECT_DIR$/day12-disruptor/pom.xml" />
+        <option value="$PROJECT_DIR$/herobatis-frame/pom.xml" />
+        <option value="$PROJECT_DIR$/hero-mall-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-example/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/springboot01-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/custom-autoconfiguration-and-starter/herobatis-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/custom-autoconfiguration-and-starter/herobatis-spring-boot-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/springboot02-import-annotation-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/springboot04-starter-herobatis-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demos/springboot03-conditional-annotation-example/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-example/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-springboot/rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-springboot/rocketmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/day06-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/day07-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/day08-multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-example/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-springboot-java/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-example/pom.xml" />
+        <option value="$PROJECT_DIR$/herobatis-frame-example/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-hero-pager-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-hero-pager-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticseach-springdata-example/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
